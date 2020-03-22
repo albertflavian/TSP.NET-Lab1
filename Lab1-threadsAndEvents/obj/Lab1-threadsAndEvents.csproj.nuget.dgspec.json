@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\TSP.NET\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj": {}
+    "E:\\work\\TSP.NET\\GitLabs\\TSP.NET-Lab1\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj": {}
   },
   "projects": {
-    "E:\\work\\TSP.NET\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj": {
+    "E:\\work\\TSP.NET\\GitLabs\\TSP.NET-Lab1\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\TSP.NET\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj",
+        "projectUniqueName": "E:\\work\\TSP.NET\\GitLabs\\TSP.NET-Lab1\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj",
         "projectName": "Lab1-threadsAndEvents",
-        "projectPath": "E:\\work\\TSP.NET\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj",
+        "projectPath": "E:\\work\\TSP.NET\\GitLabs\\TSP.NET-Lab1\\Lab1-threadsAndEvents\\Lab1-threadsAndEvents.csproj",
         "packagesPath": "C:\\Users\\Albert\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\TSP.NET\\Lab1-threadsAndEvents\\obj\\",
+        "outputPath": "E:\\work\\TSP.NET\\GitLabs\\TSP.NET-Lab1\\Lab1-threadsAndEvents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

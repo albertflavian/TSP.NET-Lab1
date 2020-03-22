@@ -9,3 +9,14 @@ E:\work\TSP.NET\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEve
 E:\work\TSP.NET\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.dll
 E:\work\TSP.NET\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.pdb
 E:\work\TSP.NET\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.csprojAssemblyReference.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.exe
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.deps.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.runtimeconfig.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.runtimeconfig.dev.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\bin\Debug\netcoreapp3.1\Lab1-threadsAndEvents.pdb
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.csprojAssemblyReference.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.AssemblyInfoInputs.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.AssemblyInfo.cs
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\Lab1-threadsAndEvents\obj\Debug\netcoreapp3.1\Lab1-threadsAndEvents.pdb

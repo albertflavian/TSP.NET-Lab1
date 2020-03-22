@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Threading;
 
 namespace Lab1_threadsAndEvents
 {
     public class Prim
     {
-        static private bool IsPrim1(int n)
+        static public bool IsPrim1(int n)
         {
             if (n > 1)
             {

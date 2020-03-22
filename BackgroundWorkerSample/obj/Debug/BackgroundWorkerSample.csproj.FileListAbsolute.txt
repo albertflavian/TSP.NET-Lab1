@@ -1,0 +1,9 @@
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe.config
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab1\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
